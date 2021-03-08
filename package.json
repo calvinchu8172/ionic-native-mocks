@@ -99,7 +99,7 @@
     "@ionic-native/ibeacon": "^4.9.1",
     "@ionic-native/image-picker": "^4.9.1",
     "@ionic-native/image-resizer": "^4.9.1",
-    "@ionic-native/in-app-browser": "^4.9.1",
+    "@ionic-native/in-app-browser": "5.31.1",
     "@ionic-native/in-app-purchase": "^4.9.1",
     "@ionic-native/in-app-purchase-2": "^4.9.1",
     "@ionic-native/index-app-content": "^4.9.1",
@@ -241,7 +241,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+    "url": "git+https://github.com/calvinchu8172/ionic-native-mocks.git"
   },
   "bugs": {
     "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"

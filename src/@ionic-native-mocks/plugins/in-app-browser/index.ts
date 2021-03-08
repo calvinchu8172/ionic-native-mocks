@@ -1,4 +1,4 @@
-import { InAppBrowser, InAppBrowserObject } from '@ionic-native/in-app-browser';
+import { InAppBrowser, InAppBrowserObject } from '@ionic-native/in-app-browser/ngx';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 
